@@ -11,4 +11,5 @@ The translation has been uploaded to crowdin,so you can get the translation sinc
 Download Modpack 
 
 https://www.curseforge.com/minecraft/modpacks/enigmatica6
+
 https://www.curseforge.com/minecraft/modpacks/enigmatica6expert
