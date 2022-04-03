@@ -2,7 +2,7 @@
 中文本地化
 Chinese Simplified Translation
 
-made by Thirace、xiaoACE、451、qiqi、fork_wrench
+made by Thirace、xiaoACE、bd_dx451xb_bd、qiqi、fork_wrench
 
 Latest update:2022/4/3
 
