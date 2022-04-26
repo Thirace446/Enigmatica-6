@@ -2,7 +2,7 @@
 中文本地化
 Chinese Simplified Translation
 
-made by Thir_teen、xiaoACE、bd_dx451xb_bd、qiqi_a、fork_wrench
+made by Thir_teen、xiaoACE、bd_dx451xb_bd、qiqi_a
 
 Latest update:2022/4/3(1.1.2 edition has been translated 100%)
 
